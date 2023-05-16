@@ -1,3 +1,4 @@
+'''c
 #include<reg51.h>
 #include<intrins.h>			 //包含头文件
 #define uchar unsigned char
@@ -206,3 +207,4 @@ void main()		  //主函数
 		for(j=0;j<100;j++)zi_dong();//自动温控模式
 	}
 }
+'''
