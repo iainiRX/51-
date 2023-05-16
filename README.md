@@ -1,4 +1,4 @@
-'''c
+'''
 #include<reg51.h>
 #include<intrins.h>			 //包含头文件
 #define uchar unsigned char
